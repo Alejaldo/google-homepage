@@ -1,0 +1,1 @@
+This is my HTML/CSS project according to "Web Development 101/Project: HTML/CSS" lesson form The Odin Project.
